@@ -1,0 +1,50 @@
+% NS_B
+<s> sil
+
+% NS_E
+</s> sil
+
+% DRONE_W
+DRONE			d r ow n
+
+% ARM_W
+ARM			aa r m
+
+% QUIT_W
+QUIT			k w ih t
+
+% MODE_W
+MODE			m ow d
+
+% MOVE_W
+MOVE			m uw v
+
+% SPECIAL_W
+SPECIAL                 s p eh sh ah l               
+
+% MOVE_TYPE_W
+FORWARD		        f ao r w er d	
+FORIGHT		        f ao w r ay t
+FORLEFT		        f ao w l eh f t
+BACKWARD		b ae k w er d
+BACRIGHT		b ae k r ay t
+BACLEFT 		b ae k l eh f t
+RIGHT			r ay t
+LEFT			l eh f t
+ASCEND			ah s eh n d
+DESCEND			d ih s eh n d
+ROTATE			r ow t ey t
+STOP			s t aa p
+
+% MODE_TYPE_W
+GUIDED                  g ay d ah d
+ALTHOLD		        ae l tx hh ow l d
+STABILIZE		s t ey b ah l ay z
+RTL        		r ti l
+LAND			l ae n d
+
+% SPECIAL_TYPE_W
+SQUARE			s k w eh r
+CIRCLE			s er k ah l
+TRIANGLE		t r ay ae ng g ah l
+WAVE			w ey v

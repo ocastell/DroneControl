@@ -1,0 +1,29 @@
+0	[<s>]	sil
+1	[</s>]	sil
+2	[DRONE]	d r ow n
+3	[ARM]	aa r m
+4	[QUIT]	k w ih t
+5	[MODE]	m ow d
+6	[MOVE]	m uw v
+7	[SPECIAL]	s p eh sh ah l
+8	[FORWARD]	f ao r w er d
+8	[FORIGHT]	f ao w r ay t
+8	[FORLEFT]	f ao w l eh f t
+8	[BACKWARD]	b ae k w er d
+8	[BACRIGHT]	b ae k r ay t
+8	[BACLEFT]	b ae k l eh f t
+8	[RIGHT]	r ay t
+8	[LEFT]	l eh f t
+8	[ASCEND]	ah s eh n d
+8	[DESCEND]	d ih s eh n d
+8	[ROTATE]	r ow t ey t
+8	[STOP]	s t aa p
+9	[GUIDED]	g ay d ah d
+9	[ALTHOLD]	ae l tx hh ow l d
+9	[STABILIZE]	s t ey b ah l ay z
+9	[RTL]	r ti l
+9	[LAND]	l ae n d
+10	[SQUARE]	s k w eh r
+10	[CIRCLE]	s er k ah l
+10	[TRIANGLE]	t r ay ae ng g ah l
+10	[WAVE]	w ey v
